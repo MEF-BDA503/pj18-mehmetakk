@@ -1,0 +1,32 @@
+---
+title: "homework week 2"
+author: "mehmet ak"
+date: "October 16, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+
+I'm Mehmet, I work in a bank head office audit department. I plan to use data analytic skills to develop/validate credit risk models and future AI projects. 
+
+R usage in banking sector.
+
+1- Credit Risk Modeling
+Logistic regression and decision trees are used for credit risk modeling.
+
+2- Trend analysis
+R is used for analysing financial trends and predictions. 
+
+3-Fraud detection tools
+R is used to detect unusual transactions/activities.
+
+
+
+
+
+
