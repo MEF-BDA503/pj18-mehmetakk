@@ -1,8 +1,8 @@
 ## The Progress Journal
 
-#Week2
+##Week2
 
- [Here](www.youtube.com/) is my introduction and R posts 
+[Here](www.youtube.com/) is my introduction and R posts 
 
 
 
