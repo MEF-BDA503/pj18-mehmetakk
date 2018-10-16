@@ -2,7 +2,7 @@
 
 ##Week2
 
-[Here](www.youtube.com/) is my introduction and R posts 
+[Here](blob/master/mehmet2.html) is my introduction and R posts 
 
 
 
