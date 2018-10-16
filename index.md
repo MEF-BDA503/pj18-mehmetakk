@@ -3,7 +3,7 @@
 ##Week2
 
 
- [Here](Homework week two R usag in finance.Rmd) is my introduction and R posts 
+ [Here](pj18-mehmetakk/blob/master/Homework%20week%20two%20R%20usag%20in%20finance.Rmd) is my introduction and R posts 
 
 
 
