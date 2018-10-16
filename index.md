@@ -2,9 +2,8 @@
 
 ##Week2
 
-[Here](blob/master/mehmet2.html) is my introduction and R posts 
 
- [Jek](https://github.com/MEF-BDA503/pj18-mehmetakk/blob/master/mehmet2.html/)
+ [Here](https://github.com/MEF-BDA503/pj18-mehmetakk/blob/master/mehmet2.html/) is my introduction and R posts 
 
 
 
