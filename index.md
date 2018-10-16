@@ -3,7 +3,7 @@
 ##Week2
 
 
- [Here](mehmet2.html) is my introduction and R posts 
+ [Here](Homework week two R usag in finance.Rmd) is my introduction and R posts 
 
 
 
