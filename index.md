@@ -3,7 +3,7 @@
 ##Week2
 
 
- [Here](https://github.com/MEF-BDA503/pj18-mehmetakk/blob/master/mehmet2.html/) is my introduction and R posts 
+ [Here](mehmet2.html) is my introduction and R posts 
 
 
 
