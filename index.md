@@ -3,7 +3,7 @@
 ## Week4
 [Here](MehmetAkEGMAnalysis.html) is my EGM Analysis.
 
-[Here](mehmetAkHW3.html) All 2018 car sales analysis.
+[Here](oddDataAnalysis.html) All 2018 car sales analysis.
 
 ## Week3
 [Here](Mehmet_Ak_HW2.html) is my analysis.
