@@ -1,0 +1,60 @@
+---
+title: "AllOddDataAnalysis"
+author: "Mehmet Ak"
+date: "24 11 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Used This Libraries
+```{r, warning=FALSE}
+library(readxl)
+library(tidyverse)
+library(ggplot2)
+```
+
+```{r, warning=FALSE}
+dat <- readRDS("car_data_aggregate.rds")
+```
+
+
+head and tail of excel data
+
+```{r}
+head(dat)
+tail(dat)
+```
+
+## Time to make some analysis
+
+```{r,warning=FALSE}
+dat %>% 
+  select(brand_name,auto_dom) %>% 
+  arrange(auto_dom) %>% 
+  filter(auto_dom>0)
+```
+
+On above, companies of maked car sales.
+
+-----------------------------------------------------------------------------------------
+
+On the below, Some Filter Added to show sales of car clearly in April of 2017.
+
+```{r, warning=FALSE}
+dat %>% 
+  select(brand_name,auto_dom,comm_dom,total_imp,total_dom) %>% 
+  arrange(auto_dom) %>% arrange(total_imp) %>%
+  filter(comm_dom>0) %>% filter(auto_dom>0) %>% filter(total_imp >0)
+```
+
+
+```{r pressure, echo=FALSE}
+ggplot(data=dat,aes(x=brand_name,y=auto_dom))+geom_point()
+```
+
+
+
+
